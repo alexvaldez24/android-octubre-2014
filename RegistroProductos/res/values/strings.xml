@@ -7,5 +7,12 @@
     <string name="nombre">Nombre:</string>
     <string name="descripcion">Descripcion:</string>
     <string name="grabar">Grabar</string>
+    <string name="title_activity_formulario">Formulario</string>
+    <string name="nuevoProducto">NuevoProducto</string>
+    <string name="mapa">Mapa</string>
+    <string name="sincronizar">Sincronizar</string>
+    <string name="recibir_nuevos_productos">Recibir_nuevo_producto</string>
+    <string name="preferencias">Preferencia</string>
+    <string name="opciones">Opciones</string>
 
 </resources>

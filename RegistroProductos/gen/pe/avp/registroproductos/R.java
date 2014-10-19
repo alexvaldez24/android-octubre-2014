@@ -1077,7 +1077,14 @@ containing a value of this type.
         public static final int abc_textfield_searchview_holo_light=0x7f020054;
         public static final int abc_textfield_searchview_right_holo_dark=0x7f020055;
         public static final int abc_textfield_searchview_right_holo_light=0x7f020056;
-        public static final int ic_launcher=0x7f020057;
+        public static final int ic_enviar=0x7f020057;
+        public static final int ic_launcher=0x7f020058;
+        public static final int ic_mapa=0x7f020059;
+        public static final int ic_no_imagen=0x7f02005a;
+        public static final int ic_nuevo=0x7f02005b;
+        public static final int ic_opciones=0x7f02005c;
+        public static final int ic_preferencias=0x7f02005d;
+        public static final int ic_recibir=0x7f02005e;
     }
     public static final class id {
         public static final int action_bar=0x7f05001c;
@@ -1106,6 +1113,7 @@ containing a value of this type.
         public static final int editNombre=0x7f05003e;
         public static final int edit_query=0x7f050030;
         public static final int end=0x7f050013;
+        public static final int enviar_productos=0x7f050046;
         public static final int expand_activities_button=0x7f050026;
         public static final int expanded_menu=0x7f05002c;
         public static final int home=0x7f050014;
@@ -1118,14 +1126,18 @@ containing a value of this type.
         public static final int listMode=0x7f050001;
         public static final int list_item=0x7f050029;
         public static final int listaProductos=0x7f05003c;
+        public static final int mapa=0x7f050045;
         public static final int middle=0x7f050012;
         public static final int never=0x7f050009;
         public static final int none=0x7f050010;
         public static final int normal=0x7f050000;
+        public static final int nuevoProducto=0x7f050044;
+        public static final int preferencias=0x7f050048;
         public static final int progress_circular=0x7f050018;
         public static final int progress_horizontal=0x7f050019;
         public static final int radio=0x7f05002f;
         public static final int ratingProducto=0x7f050041;
+        public static final int recibir_nuevos_productos=0x7f050047;
         public static final int search_badge=0x7f050032;
         public static final int search_bar=0x7f050031;
         public static final int search_button=0x7f050033;
@@ -1204,7 +1216,8 @@ containing a value of this type.
         public static final int support_simple_spinner_dropdown_item=0x7f03001a;
     }
     public static final class menu {
-        public static final int main=0x7f0c0000;
+        public static final int formulario=0x7f0c0000;
+        public static final int main=0x7f0c0001;
     }
     public static final class string {
         /**  Content description for the action bar "home" affordance. [CHAR LIMIT=NONE] 
@@ -1252,7 +1265,14 @@ containing a value of this type.
         public static final int descripcion=0x7f0a0011;
         public static final int grabar=0x7f0a0012;
         public static final int hello_world=0x7f0a000e;
+        public static final int mapa=0x7f0a0015;
         public static final int nombre=0x7f0a0010;
+        public static final int nuevoProducto=0x7f0a0014;
+        public static final int opciones=0x7f0a0019;
+        public static final int preferencias=0x7f0a0018;
+        public static final int recibir_nuevos_productos=0x7f0a0017;
+        public static final int sincronizar=0x7f0a0016;
+        public static final int title_activity_formulario=0x7f0a0013;
     }
     public static final class style {
         /** 
